@@ -1,9 +1,9 @@
 # Master-Mind
 This is a Clone of the common Master Mind game designed in Visual Studio using Visual C#
 ## Table of Contents 
-1. [General Tips and Set up] (
-2. Playing
-3. License
+1. [General Tips and Set up] (https://github.com/Gregory-Salley-199/Master-Mind/blob/main/README.md#general-tips-and-set-up)
+2. [Playing] (https://github.com/Gregory-Salley-199/Master-Mind/blob/main/README.md#playing)
+3. [License] (https://github.com/Gregory-Salley-199/Master-Mind/blob/main/README.md#license)
 
 
 ### General Tips and Set up
@@ -16,3 +16,5 @@ The "Check" button will not be accessible until all the possible pegs to fill in
 ### Playing
 After selecting a level the pegs will place and adjust accordingly, then start from the bottom and click on one peg to change its color. Continue to click and the colors will cycle through. Once all pegs on the line 
 
+### License
+There are no License used with this source, the only thing needed is access to Visual Studio 2019.
