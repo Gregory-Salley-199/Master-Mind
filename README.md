@@ -1,4 +1,6 @@
 
+
+
 # Master-Mind
 This is a Clone of the common Master Mind game designed in Visual Studio using Visual C#
 
@@ -16,7 +18,8 @@ While guessing at what the seqence of four pegs (Beginnner), five pegs (Intermed
 With the hint box there are three types of feedback. Blank being nothing mathces the sequence. A circle being filled in with black meaning that a space is filled in correctly (though it does not give the peg in which you have right). The final option is the circle being filled in red, meaning that the right color is on a peg, but not in the right position (It also does not give the position of which peg it is).
 
 ## Playing
-See the link including a video playing the game [Gameplay](https://github.com/Gregory-Salley-199/Master-Mind/blob/main/MM%20video.zip)
+![MM-Video-Short](https://user-images.githubusercontent.com/54416040/116465911-7aaeb300-a833-11eb-9f77-804aa4bb0fbc.gif)
+See the link including a video playing the game [Gameplay](https://github.com/Gregory-Salley-199/Master-Mind/blob/main/MM%20video.zip) or the above gif!
 After selecting a level the pegs will place and adjust accordingly, then start from the bottom and click on one peg to change its color. Continue to click and the colors will cycle through. Once all pegs on the line are selected with a color the "Check" button will no longer be diabled. 
 
 ## Requirement Analysis
