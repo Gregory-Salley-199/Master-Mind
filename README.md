@@ -16,7 +16,7 @@ This is a Clone of the common Master Mind game designed in Visual Studio using V
 ## General Tips and Set up
 Ensure that you have read and understand the Project Proposal before downloading as it gives the list of requirements. 
 To run, simply download the package and open it within Visual Studio and once it opens click "run".
-This is a simple visual C# game in which a random sequence is made upon start and you have eight (8) tries to get the sequence correct.
+This is a simple visual basic game in which a random sequence is made upon start and you have eight (8) tries to get the sequence correct.
 While guessing at what the seqence of four pegs (Beginnner), five pegs (Intermediate), and six pegs (Advanced) there is a hint box next to each line in which you have guessed. 
 With the hint box there are three types of feedback. Blank being nothing mathces the sequence. A circle being filled in with black meaning that a space is filled in correctly (though it does not give the peg in which you have right). The final option is the circle being filled in red, meaning that the right color is on a peg, but not in the right position (It also does not give the position of which peg it is).
 
