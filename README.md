@@ -38,4 +38,4 @@ If the Raw does not pop up, it is a simple Word Doc that can be opened in most b
 The above snippet is a sample of code from my project. This line of code is used to place the the pegs within the game, but also is one of the biggest pains in my side as it effects the size and scalability.
 
 ## License
-There are no License used with this source, the only thing needed is access to Visual Studio 2019.
+[MIT](https://github.com/Gregory-Salley-199/Master-Mind/blob/main/License)
