@@ -3,7 +3,7 @@
 
 
 # Master-Mind
-This is a Clone of the common Master Mind game designed in Visual Studio using Visual C#
+This is a Clone of the common Master Mind game designed in Visual Studio using Visual Basic
 
 ## Table of Contents 
 1. [General Tips and Set up](https://github.com/Gregory-Salley-199/Master-Mind/blob/main/README.md#general-tips-and-set-up)
