@@ -21,7 +21,7 @@ With the hint box there are three types of feedback. Blank being nothing mathces
 
 ## Playing
 ![MM-Video-Short](https://user-images.githubusercontent.com/54416040/116465911-7aaeb300-a833-11eb-9f77-804aa4bb0fbc.gif)
-See the link including a video playing the game [Gameplay](https://github.com/Gregory-Salley-199/Master-Mind/blob/main/MM%20video.zip) or the above gif!
+See the link including a video playing the game [Gameplay](https://github.com/Gregory-Salley-199/Master-Mind/blob/main/MM%20video.zip) or the above shortened gif!
 After selecting a level the pegs will place and adjust accordingly, then start from the bottom and click on one peg to change its color. Continue to click and the colors will cycle through. Once all pegs on the line are selected with a color the "Check" button will no longer be diabled. 
 
 ## Sequence Diagram
