@@ -7,8 +7,9 @@ This is a Clone of the common Master Mind game designed in Visual Studio using V
 ## Table of Contents 
 1. [General Tips and Set up](https://github.com/Gregory-Salley-199/Master-Mind/blob/main/README.md#general-tips-and-set-up)
 2. [Playing](https://github.com/Gregory-Salley-199/Master-Mind/blob/main/README.md#playing)
-3. [Requirement Analysis](https://github.com/Gregory-Salley-199/Master-Mind/blob/main/README.md#requirement-analysis)
-4. [License](https://github.com/Gregory-Salley-199/Master-Mind/blob/main/README.md#license)
+3. [Sequence Diagram](https://github.com/Gregory-Salley-199/Master-Mind/blob/main/README.md#sequence-diagram)
+4. [Requirement Analysis](https://github.com/Gregory-Salley-199/Master-Mind/blob/main/README.md#requirement-analysis)
+5. [License](https://github.com/Gregory-Salley-199/Master-Mind/blob/main/README.md#license)
 
 ## General Tips and Set up
 Ensure that you have read and understand the Project Proposal before downloading as it gives the list of requirements. 
@@ -23,7 +24,7 @@ See the link including a video playing the game [Gameplay](https://github.com/Gr
 After selecting a level the pegs will place and adjust accordingly, then start from the bottom and click on one peg to change its color. Continue to click and the colors will cycle through. Once all pegs on the line are selected with a color the "Check" button will no longer be diabled. 
 
 ## Sequence Diagram
-Below you can view the Sequnce Diagram, or download it here [Sequence Diagram](
+Below you can view the Sequnce Diagram, or download it here [Sequence Diagram](https://github.com/Gregory-Salley-199/Master-Mind/blob/main/MM%20Sequence%20Diagram.pdf)
 [MM Sequence Diagram.pdf](https://github.com/Gregory-Salley-199/Master-Mind/files/6394524/MM.Sequence.Diagram.pdf)
 
 
