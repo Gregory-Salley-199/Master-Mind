@@ -28,10 +28,13 @@ After selecting a level the pegs will place and adjust accordingly, then start f
 Below you can view the Sequnce Diagram, or download it here [Sequence Diagram](https://github.com/Gregory-Salley-199/Master-Mind/blob/main/MM%20Sequence%20Diagram.pdf)
 ![MM Sequence Diagram](https://user-images.githubusercontent.com/54416040/116467098-ecd3c780-a834-11eb-9301-03d58fe35dbf.jpg)
 
-
 ## Requirement Analysis
 See the attached file at the following link [Requirement Analysis](https://github.com/Gregory-Salley-199/Master-Mind/blob/main/Master%20Mind%20Clone%20Requirement.docx)
 If the Raw does not pop up, it is a simple Word Doc that can be opened in most basic word editors. 
+
+## Code Snippet
+<img width="619" alt="MM Code Snippet" src="https://user-images.githubusercontent.com/54416040/116468603-ad0ddf80-a836-11eb-8b8e-0cad867b1a18.png">
+The above snippet is a sample of code from my project. This line of code is used to place the the pegs within the game, but also is one of the biggest pains in my side as it effects the size and scalability.
 
 ## License
 There are no License used with this source, the only thing needed is access to Visual Studio 2019.
