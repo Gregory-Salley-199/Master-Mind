@@ -22,6 +22,11 @@ With the hint box there are three types of feedback. Blank being nothing mathces
 See the link including a video playing the game [Gameplay](https://github.com/Gregory-Salley-199/Master-Mind/blob/main/MM%20video.zip) or the above gif!
 After selecting a level the pegs will place and adjust accordingly, then start from the bottom and click on one peg to change its color. Continue to click and the colors will cycle through. Once all pegs on the line are selected with a color the "Check" button will no longer be diabled. 
 
+## Sequence Diagram
+Below you can view the Sequnce Diagram, or download it here [Sequence Diagram](
+[MM Sequence Diagram.pdf](https://github.com/Gregory-Salley-199/Master-Mind/files/6394524/MM.Sequence.Diagram.pdf)
+
+
 ## Requirement Analysis
 See the attached file at the following link [Requirement Analysis](https://github.com/Gregory-Salley-199/Master-Mind/blob/main/Master%20Mind%20Clone%20Requirement.docx)
 If the Raw does not pop up, it is a simple Word Doc that can be opened in most basic word editors. 
