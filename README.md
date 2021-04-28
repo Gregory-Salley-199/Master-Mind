@@ -10,7 +10,8 @@ This is a Clone of the common Master Mind game designed in Visual Studio using V
 2. [Playing](https://github.com/Gregory-Salley-199/Master-Mind/blob/main/README.md#playing)
 3. [Sequence Diagram](https://github.com/Gregory-Salley-199/Master-Mind/blob/main/README.md#sequence-diagram)
 4. [Requirement Analysis](https://github.com/Gregory-Salley-199/Master-Mind/blob/main/README.md#requirement-analysis)
-5. [License](https://github.com/Gregory-Salley-199/Master-Mind/blob/main/README.md#license)
+5. [Code Snippet](https://github.com/Gregory-Salley-199/Master-Mind/blob/main/README.md#code-snippet)
+6. [License](https://github.com/Gregory-Salley-199/Master-Mind/blob/main/README.md#license)
 
 ## General Tips and Set up
 Ensure that you have read and understand the Project Proposal before downloading as it gives the list of requirements. 
