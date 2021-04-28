@@ -26,8 +26,7 @@ After selecting a level the pegs will place and adjust accordingly, then start f
 
 ## Sequence Diagram
 Below you can view the Sequnce Diagram, or download it here [Sequence Diagram](https://github.com/Gregory-Salley-199/Master-Mind/blob/main/MM%20Sequence%20Diagram.pdf)
-(https://github.com/Gregory-Salley-199/Master-Mind/files/6394539/MM.Sequence.Diagram.pdf)
-
+[MM Sequence Diagram.pdf](https://github.com/Gregory-Salley-199/Master-Mind/files/6394546/MM.Sequence.Diagram.pdf)
 
 ## Requirement Analysis
 See the attached file at the following link [Requirement Analysis](https://github.com/Gregory-Salley-199/Master-Mind/blob/main/Master%20Mind%20Clone%20Requirement.docx)
